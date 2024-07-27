@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  OTP Screen
 //
-//  Created by 이순빈 on 2021/07/12.
+//  Created by bin on 2021/07/12.
 //
 
 import UIKit
